@@ -1,0 +1,6 @@
+data/*
+.idea/*
+.snakemake/*
+aligned/*
+snakefiles/.snakemake/*
+snakefiles/dag.svg
