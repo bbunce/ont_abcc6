@@ -1,0 +1,7 @@
+run alignment on all individual fastq.gz files for each patient > sam
+sam > bam
+merge bam files together
+sort bam
+index bam
+
+check further analysis from Aaron
